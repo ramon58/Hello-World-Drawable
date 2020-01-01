@@ -1,4 +1,4 @@
-package com.luispalacio.holamundo;
+package com.ramasolutions.holamundodrawable;
 
 import org.junit.Test;
 
